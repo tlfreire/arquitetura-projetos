@@ -1,0 +1,2 @@
+delete http://localhost:8080/projects/c48a2ab3-1364-47b6-99c7-26ec1b0ea698
+content-type: application/json

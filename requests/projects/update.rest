@@ -1,0 +1,10 @@
+put http://localhost:8080/projects/5e61398c-fbec-4a5f-a164-a7b6e566a414 HTTP/1.1
+content-type: application/json
+
+{
+    "name": "Projeto do Rest 2 (NOVO)",
+    "description": "Arquitetura de Software",
+    "startDate": "2021-07-15T00:56:54.447Z",
+    "endDate": "2021-07-15T00:56:54.447Z",
+    "userUid": "5e61398c-fbec-4a5f-a164-a7b6e566a414"
+}

@@ -1,0 +1,8 @@
+post http://localhost:8080/tasks
+content-type: application/json
+
+{
+    "name": "Task 2",
+    "description": "Description 2",
+    "projectUid": "fa997ea2-6d71-4ad5-8d05-b08596613a63"
+}
